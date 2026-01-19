@@ -5,7 +5,7 @@ Hi, I'm Madhavi Meka!
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Frontend+Developer&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Frontend+Developer;Always+Learning&center=true&width=380&height=45">
   </a>
 </p>
 
@@ -25,18 +25,26 @@ MadhaviMeka27@github
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
-<h2 align="center">Languages</h2><br>
+<h2 align="center">Programming Languages</h2><br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,html,css,js&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,c&perline=14" />
   </a>
 </p>
 <br>   
 
+<h2 align="center">Web Technologies</h2><br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js&perline=14" />
+  </a>
+</p>
+<br>
+
 <h2 align="center">Libraries & Frameworks</h2><br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,express,tailwind,bootstrap,nodejs&perline=14" />
+    <img src="https://skillicons.dev/icons?i=react,express,tailwind,nodejs&perline=14" />
   </a>
 </p>
 
@@ -54,7 +62,7 @@ MadhaviMeka27@github
 <h2 align="center">Softwares & Tools</h2><br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=14" />
   </a>
 </p> 
 
