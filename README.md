@@ -5,7 +5,7 @@ Hi, I'm Madhavi Meka!
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Frontend+Developer;Always+Learning&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Frontend+Developer&center=true&width=380&height=45">
   </a>
 </p>
 
