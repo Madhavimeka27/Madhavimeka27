@@ -9,8 +9,6 @@ Hi, I'm Madhavi Meka! 👋
   </a>
 </p>
 
-<img align="left" src="https://github.com/Madhavimeka27/assets/blob/main/profile-pic.png?raw=true" alt="Profile Picture" width="300" />
-
 <hr>
 
 MadhaviMeka27@github
