@@ -1,68 +1,98 @@
-# Hi, I'm Madhavi Meka 👋  
-💻 Computer Science Engineering Student  |  Aspiring Web Developer    
+<h1 align="center">
+Hi, I'm Madhavi Meka! 👋
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
 
----
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Frontend+Developer;Always+Learning&center=true&width=380&height=45">
+  </a>
+</p>
 
-## 👩‍💻 About Me
+<img align="left" src="https://github.com/Madhavimeka27/assets/blob/main/profile-pic.png?raw=true" alt="Profile Picture" width="300" />
 
-- 🎓 B.Tech CSE Student  
-- 🌱 Learning Full Stack Web Development (MERN)  
-- 🛠 Strong foundation in Web & Programming Technologies  
-- 🎯 Goal: Web Developer / Frontend Developer  
+<hr>
 
----
+MadhaviMeka27@github
 
-## Skills
+💻 B.Tech CSE Student | Aspiring Web Developer  
+📝 Strong interest in Full Stack Web Development  
+🔭 Working on MERN Stack & Frontend Projects  
+🌟 Main languages: Java, C  
+🚩 Interested in Web Development and Frontend Projects  
+🌱 Learning more about React, Node.js, Express, MongoDB  
 
-### 🧠 Programming Languages
+<hr><br>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
 
----
+<h2 align="center">Languages</h2><br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,html,css,js&perline=14" />
+  </a>
+</p>
+<br>   
 
-### 🌐 Web Technologies
+<h2 align="center">Libraries & Frameworks</h2><br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,express,tailwind,bootstrap,nodejs&perline=14" />
+  </a>
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<br>
 
----
+<h2 align="center">Hosting Platforms</h2><br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=netlify,vercel&perline=14" />
+  </a>
+</p>
+    
+<br>
 
-### ⚙️ Frameworks & Libraries
+<h2 align="center">Softwares & Tools</h2><br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&perline=14" />
+  </a>
+</p> 
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<br>
+<br>
 
----
+-----
 
-### 🗄️ Databases
+<br>
 
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+## <b> Let's Connect..!</b>
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
+<div align='left'>
 
----
+<ul>
+<li>
+<a href="https://www.linkedin.com/in/madhavi-meka-826a22291/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Madhavi Meka-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
 
-### ☁️ Hosting & Deployment
+<br>
 
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+<li>
+<a href="mailto:madhavimeka27@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  Madhavi Meka-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 5px;" />
+</a>
+</li>
 
----
+<br>
 
-### 🧰 Tools & Software
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 🤝 Let's Connect
-
-- 💼 LinkedIn: [https://www.linkedin.com/in/madhavi-meka-826a22291](https://www.linkedin.com/in/madhavi-meka-826a22291)  
-- 🐙 GitHub: [https://github.com/Madhavimeka27](https://github.com/Madhavimeka27)  
-- 📧 Email: madhavimeka27@gmail.com
+<li>
+<a href="https://github.com/Madhavimeka27" target="_blank">
+<img src="https://img.shields.io/badge/github:  Madhavi Meka-%23000000.svg?color=181717&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;"/>
+</a>
+</li>
+</ul>
+</div>
